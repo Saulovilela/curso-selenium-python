@@ -1,0 +1,8 @@
+## dependencias a serem instaladas
+nose
+behave
+selenium
+behave-html-formatter
+allure-behave
+faker
+pyautogui
